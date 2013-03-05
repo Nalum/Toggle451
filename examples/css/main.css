@@ -17,7 +17,7 @@ body {
     padding: 10px;
 }
 
-a {
+a, a:visited {
     text-decoration: none;
     color: #cf0;
 }
